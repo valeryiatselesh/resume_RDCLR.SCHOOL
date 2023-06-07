@@ -5,7 +5,7 @@
 /* Fonts */
 @font-face {
 	font-family: 'TT Commons';
-	src: url('../fonts/TTCommons-Regular.woff');
+	src: url('../fonts/TTCommons-Regular.woff') format("woff");
 	font-style: normal;
 	font-weight: 400;
 }
