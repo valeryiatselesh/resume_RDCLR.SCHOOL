@@ -12,7 +12,8 @@
 @font-face {
 	font-family: 'Redcollar'; 
 	src: local('Redcollar'),
-        url("../fonts/Redcollar.otf") format("otf"); 
+        url("../fonts/Redcollar.otf") format("otf"),
+        url("../fonts/Redcollar.woff") format("woff"); 
 	font-style: normal;
 	font-weight: 400;
 }
